@@ -14,4 +14,4 @@ Note: Variables starting with "Z" are standardized.
 
 The article concluded that there are higher death counts for hurricanes with female names than male names. They determined that the reason for this difference is because people are more threatened by male names than female names and are therefore more likely to take protective measures if they hear the male name.
 
-This paper analyzes the validity of this claim by using data visualization. 
+The Himmicanes vs Hurricanes paper (attached) analyzes the validity of this claim by using data visualization. 
